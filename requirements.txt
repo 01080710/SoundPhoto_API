@@ -1,0 +1,16 @@
+fastapi==0.115.12
+minio==7.2.15
+pandas==2.2.3
+pydantic==2.11.5
+SQLAlchemy==2.0.34
+uvicorn==0.34.2
+python-multipart
+psycopg2-binary # 編譯環境所致，用來取代psycopg2
+uvicorn[standard]
+gunicorn
+python-jose
+pydantic[email]
+passlib
+pymssql
+pyodbc
+requests
